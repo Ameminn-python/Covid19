@@ -4,7 +4,7 @@ import json
 import download
 from collections import defaultdict
 
-TOKEN = 'NzczNDY2MzE5MjM2NDk3NDEw.X6JopA.ZPSDYzUXMpBJ84Jh2evzpS4ud5Q'
+TOKEN = ''
 PREFIX = '/'
 bot = commands.Bot(command_prefix=PREFIX)
 
