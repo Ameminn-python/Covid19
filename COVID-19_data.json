@@ -1,0 +1,391 @@
+[
+    {
+        "srcurl_pdf": "",
+        "srcurl_web": "",
+        "description": "",
+        "npatients": 0,
+        "nexits": 0,
+        "ndeaths": 0,
+        "ncurrentpatients": 0,
+        "srcurl_pdf_archived": "",
+        "lastUpdate": "2020-12-24",
+        "area": [
+            {
+                "name_jp": "北海道",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 12618
+            },
+            {
+                "name_jp": "青森県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 407
+            },
+            {
+                "name_jp": "岩手県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 348
+            },
+            {
+                "name_jp": "宮城県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 1888
+            },
+            {
+                "name_jp": "秋田県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 105
+            },
+            {
+                "name_jp": "山形県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 345
+            },
+            {
+                "name_jp": "福島県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 801
+            },
+            {
+                "name_jp": "茨城県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 2226
+            },
+            {
+                "name_jp": "栃木県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 1130
+            },
+            {
+                "name_jp": "群馬県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 2044
+            },
+            {
+                "name_jp": "埼玉県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 12466
+            },
+            {
+                "name_jp": "千葉県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 9700
+            },
+            {
+                "name_jp": "東京都",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 54018
+            },
+            {
+                "name_jp": "神奈川県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 18227
+            },
+            {
+                "name_jp": "新潟県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 472
+            },
+            {
+                "name_jp": "富山県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 517
+            },
+            {
+                "name_jp": "石川県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 998
+            },
+            {
+                "name_jp": "福井県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 339
+            },
+            {
+                "name_jp": "山梨県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 502
+            },
+            {
+                "name_jp": "長野県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 1071
+            },
+            {
+                "name_jp": "岐阜県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 1895
+            },
+            {
+                "name_jp": "静岡県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 2480
+            },
+            {
+                "name_jp": "愛知県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 14648
+            },
+            {
+                "name_jp": "三重県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 1187
+            },
+            {
+                "name_jp": "滋賀県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 985
+            },
+            {
+                "name_jp": "京都府",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 3998
+            },
+            {
+                "name_jp": "大阪府",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 28101
+            },
+            {
+                "name_jp": "兵庫県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 8605
+            },
+            {
+                "name_jp": "奈良県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 1782
+            },
+            {
+                "name_jp": "和歌山県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 590
+            },
+            {
+                "name_jp": "鳥取県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 79
+            },
+            {
+                "name_jp": "島根県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 189
+            },
+            {
+                "name_jp": "岡山県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 1186
+            },
+            {
+                "name_jp": "広島県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 2571
+            },
+            {
+                "name_jp": "山口県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 494
+            },
+            {
+                "name_jp": "徳島県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 194
+            },
+            {
+                "name_jp": "香川県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 258
+            },
+            {
+                "name_jp": "愛媛県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 389
+            },
+            {
+                "name_jp": "高知県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 592
+            },
+            {
+                "name_jp": "福岡県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 7852
+            },
+            {
+                "name_jp": "佐賀県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 433
+            },
+            {
+                "name_jp": "長崎県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 457
+            },
+            {
+                "name_jp": "熊本県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 1545
+            },
+            {
+                "name_jp": "大分県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 596
+            },
+            {
+                "name_jp": "宮崎県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 686
+            },
+            {
+                "name_jp": "鹿児島県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 890
+            },
+            {
+                "name_jp": "沖縄県",
+                "name": "",
+                "ncurrentpatients": 0,
+                "nexits": 0,
+                "ndeaths": 0,
+                "npatients": 5095
+            }
+        ]
+    }
+]
